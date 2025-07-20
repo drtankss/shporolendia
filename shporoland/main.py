@@ -1,6 +1,6 @@
 # Файлы для деплоя бота "Шпороландия" в Railway
 
-## 1. requirements.tx
+## 1. requirements.txt
 ```
 python-telegram-bot==20.7
 ```
